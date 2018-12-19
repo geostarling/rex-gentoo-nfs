@@ -1,0 +1,4 @@
+Name: Rex::Gentoo::NFS
+Description: The NFS service module
+Author: Jiří Špaček spaceji3@fit.cvut.cz
+License: MIT
